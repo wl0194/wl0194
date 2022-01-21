@@ -2,7 +2,6 @@
 
 - 💬 My name is Amy Hwang, full-stack web developer
 
-<br>
 
 ### Languages and Tools:
 
