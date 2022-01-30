@@ -1,4 +1,4 @@
-# Hello world 👋
+# Hi, there 👋
 
 - 💬 My name is Amy Hwang, full-stack web developer
 
