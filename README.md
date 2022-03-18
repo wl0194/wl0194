@@ -1,6 +1,6 @@
 # Hi, there 👋
 
-- 💬 My name is Amy Hwang, full-stack web developer
+- 💬 My name is Amy Hwang, UI focused web developer.
 
 
 ### Languages and Tools:
