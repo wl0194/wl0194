@@ -24,7 +24,7 @@
 ### Let's Connect!
 Reach me at..
 
-LinkedIn: <a href="https://www.linkedin.com/in/amy-hwang-633194216/" target="_blank">amy-hwang</a> | Website: <a href="https://amyhwang/me/" target="_blank">AMY | Portfolio</a> | Email: <a href="mailto:amyhh0728@gmail.com" target="_blank">amyhh0728@gmail.com</a>
+LinkedIn: <a href="https://www.linkedin.com/in/amy-hwang-633194216/" target="_blank">amy-hwang</a> | Website: <a href="https://amyhwang.me/" target="_blank">AMY | Portfolio</a> | Email: <a href="mailto:amyhh0728@gmail.com" target="_blank">amyhh0728@gmail.com</a>
 
 <br>
 <br>
